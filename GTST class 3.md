@@ -1361,4 +1361,7 @@ Would you like me to also explain the difference between break, continue, and pa
 
 # Functions
 
+def greet(name):
+    print("Hello,", name)
 
+greet("Muktar")   # "Muktar" is an argument
