@@ -1365,3 +1365,4 @@ def greet(name):
     print("Hello,", name)
 
 greet("Muktar")   # "Muktar" is an argument
+ day 10
